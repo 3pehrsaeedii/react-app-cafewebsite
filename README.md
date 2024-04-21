@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./src/assets/menuweb.png" width="350" title="hover text">
+  <img src="./src/assets/menuweb2.png" width="350" alt="accessibility text">
+</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
